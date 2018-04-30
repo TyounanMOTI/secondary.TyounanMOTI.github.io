@@ -5,7 +5,14 @@ title: GitHub Pagesで記事一覧を出す方法
 # GitHub Pagesで記事一覧を出す方法
 こんな感じの記事一覧を出します。
 
-![記事一覧](/images/page_list.png)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 
 # やりかた
 ## 1. `_posts`フォルダに、決まったファイル名で記事を作成
