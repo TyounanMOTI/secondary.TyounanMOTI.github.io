@@ -49,4 +49,4 @@ index.mdに以下のコードを追加します。
 あとはgit pushするだけ！
 
 # 参考
-- https://jekyllrb.com/docs/posts/
+- [Jekyllのドキュメント](https://jekyllrb.com/docs/posts/)
