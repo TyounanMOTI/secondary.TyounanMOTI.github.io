@@ -33,6 +33,7 @@ title: GitHub Pagesで記事一覧を出す方法
 ## 3. index.mdに記事一覧を出すコードを追加
 index.mdに以下のコードを追加します。
 
+{% raw %}
 ```
 <ul>
   {% for post in site.posts %}
@@ -42,6 +43,7 @@ index.mdに以下のコードを追加します。
   {% endfor %}
 </ul>
 ```
+{% endraw %}
 
 ## 4. git push
 あとはgit pushするだけ！
