@@ -1,5 +1,4 @@
 ---
-layout: post
 title: GitHub Pagesでウェブサイトを作る方法
 ---
 

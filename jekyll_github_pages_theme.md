@@ -1,5 +1,4 @@
 ---
-layout: post
 title: GitHub Pagesの見た目を変える方法
 ---
 

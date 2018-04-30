@@ -1,5 +1,4 @@
 ---
-layout: post
 title: GitHub Pagesでブログ記事を書く方法
 ---
 
