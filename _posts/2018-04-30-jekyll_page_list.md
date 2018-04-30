@@ -4,6 +4,7 @@ title: GitHub Pagesで記事一覧を出す方法
 
 # GitHub Pagesで記事一覧を出す方法
 こんな感じの記事一覧を出します。
+
 ![記事一覧](/images/page_list.png)
 
 # やりかた
