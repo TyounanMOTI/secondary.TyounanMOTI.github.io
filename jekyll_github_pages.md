@@ -24,4 +24,4 @@ Markdown記法でGitHub Pagesにブログ記事を書く方法を解説します
 たぶんこんな感じ。
 
 # 次は？
-Jekyllテーマを使ってみよう！
+[見た目を変えてみよう！](jekyll_github_pages_theme,html)
