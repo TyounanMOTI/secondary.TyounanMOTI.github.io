@@ -1,3 +1,8 @@
+---
+layout: post
+title: GitHub Pagesでウェブサイトを作る方法
+---
+
 # やること
 GitHub Pagesを使って、ウェブサイトを作ります。
 

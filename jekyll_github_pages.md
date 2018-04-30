@@ -1,3 +1,8 @@
+---
+layout: post
+title: GitHub Pagesでブログ記事を書く方法
+---
+
 # GitHub Pagesでブログ記事を書く方法
 Markdown記法でGitHub Pagesにブログ記事を書く方法を解説します。
 
